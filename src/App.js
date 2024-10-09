@@ -1,7 +1,8 @@
 import "./App.css";
+import Header from "./components/Layout/Header";
 
 function App() {
-  return <h1>crypto-blogs</h1>;
+  return <Header />;
 }
 
 export default App;
