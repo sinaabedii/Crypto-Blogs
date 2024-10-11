@@ -5,7 +5,7 @@ function Header() {
     <AppBar position="sticky">
       <Container maxWidth="lg">
         <Toolbar>
-          <Typography component="h1" variant="h5" fontWeight="bold">
+          <Typography component="h1" variant="h5" fontWeight="bold" flex={1}>
             crypto-blogs
           </Typography>
         </Toolbar>
